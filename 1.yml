@@ -279,8 +279,6 @@ cfw-bypass:
   - "*moke*"
   - "*qhimg*"
   - "*vpimg*"
-  - "*xiami*"
-  - "*xiaomi*"
   # 360
   - "*.360.com"
   - "*.360kuai.com"
@@ -469,14 +467,6 @@ cfw-bypass:
   - "*.hitv.com"
   - "*.hunantv.com"
   - "*.mgtv.com"
-  # MI
-  - "*.duokan.com"
-  - "*.mi-img.com"
-  - "*.mi.com"
-  - "*.miui.com"
-  - "*.xiaomi.com"
-  - "*.xiaomi.net"
-  - "*.xiaomicp.com"
   # NetEase
   - "*.126.com"
   - "*.126.net"
@@ -898,3 +888,4 @@ cfw-bypass:
   - 172.31.*
   - 192.168.*
   - <local>
+
